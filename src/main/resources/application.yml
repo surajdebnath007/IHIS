@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    password: java@2022
+    port: 587
+    username: sdjavaproject@gmail.com
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: true
+          auth: true
